@@ -8,7 +8,9 @@ NewsAPI.org is used to acquire the news sources and news articles.
 * Selecting a news category will limit the news source choices to those offering that category of news
 * News articles can viewed by swiping right to read the next article, and left to go back to the previous article
 
+![image](https://github.com/Zylog101/News-Gateway-an-Android-Application/blob/master/Image/NGArch.JPG)
+
 **Overview:**
 
-![image]()
+![image](https://github.com/Zylog101/News-Gateway-an-Android-Application/blob/master/Image/NGOv.JPG)
 
